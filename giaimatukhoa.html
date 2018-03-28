@@ -1,0 +1,58 @@
+<center>
+	<h1 id="demo"></h1>
+	<h1 id="lol" style="margin:8px;padding:8px"></h1>
+	<button id="next" onclick="next()" style="margin:8px;padding:8px">Start</button>
+	<button id="trueButton" style="margin:8px;padding:8px;display:none" onclick="trueButton()">True</button>
+</center>
+<script>
+	var i = 0; 
+	var diem = 0;
+	var a =['NVIDIA', 'concept', 'morphological operators', 'Mathematica', 'AR (Augmented reality)', 'Prolog', 'Kruskal', 'Google Assistant', 'constructor', 'Symbian'];
+	function next() { 
+		document.getElementById("lol").innerHTML = a[i++]; 
+		if (i == 1) {
+			document.getElementById("trueButton").style.display = "block";
+ 			document.getElementById("next").innerHTML = "False";
+			
+// Set the date we're counting down to
+var countDownDate = new Date().getTime() + 121000;
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+    // Get todays date and time
+    var now = new Date().getTime();
+    
+    // Find the distance between now an the count down date
+    var distance = countDownDate - now;
+
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+    // Output the result in an element with id="demo"
+    document.getElementById("demo").innerHTML = minutes + "m " + seconds + "s ";
+    // If the count down is over, write some text 
+    if (distance < 0) {
+        clearInterval(x);
+	b = document.getElementById("show_answer");
+	b.click();
+        document.getElementById("demo").innerHTML = "EXPIRED";
+    }
+}, 100);
+		} 
+		if (i > a.length) {
+			document.getElementById("lol").innerHTML = "Your score is: <font color=\"red\">" + diem + "</font>";
+			document.getElementById("trueButton").style.display = "none";
+ 			document.getElementById("next").style.display = "none";
+		}
+	}
+	function trueButton() {
+		document.getElementById("lol").innerHTML = a[i++]; 
+		diem++;
+		if (i > a.length) {
+			document.getElementById("lol").innerHTML = "Your score is: <font color=\"red\">" + diem + "</font>";
+			document.getElementById("trueButton").style.display = "none";
+ 			document.getElementById("next").style.display = "none";
+		}
+	}
+</script>

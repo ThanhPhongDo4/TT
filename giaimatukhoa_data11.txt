@@ -1,0 +1,76 @@
+LinearLayout
+RelativeLayout
+GridLayout
+GridView
+Absolute Positioning
+Layout manager
+superclass
+case-sensitive
+design view
+horizontal
+vertical
+gravity
+margin
+border
+padding
+match_parent
+wrap_content
+nested layout
+frame layout
+type casting
+passing parameters
+Null pointer exception
+instance method
+polymorphism
+collection
+generics
+throwing exceptions
+implementation
+inheritance
+internal storage
+external storage
+Android Manifest
+permission
+intent
+activity
+image button
+attributes
+image view
+edit text
+check box
+radio button
+radio group
+spinner
+scroll view
+notification
+text-to-speech
+shutdown
+synchronize
+speech-to-text
+gesture listener
+standard services
+intent services
+service lifecycle
+activity lifecycle
+helper class
+MapFragment
+action bar
+handle events
+activity state
+initialize resources
+resume animations
+relational database
+SQL Server
+PostgreSQL
+SQLite
+MySQL
+handling rotation
+system engineering
+Waterfall Model
+Iterative Development
+Maintainability
+Dependability
+Efficiency
+Acceptability
+extreme programming
+requirement document

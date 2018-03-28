@@ -1,0 +1,826 @@
+LinearLayout
+RelativeLayout
+GridLayout
+GridView
+Absolute Positioning
+Layout manager
+superclass
+case-sensitive
+design view
+horizontal
+vertical
+gravity
+margin
+border
+padding
+match_parent
+wrap_content
+nested layout
+frame layout
+type casting
+passing parameters
+Null pointer exception
+instance method
+polymorphism
+collection
+generics
+throwing exceptions
+implementation
+inheritance
+internal storage
+external storage
+Android Manifest
+permission
+intent
+activity
+image button
+attributes
+image view
+edit text
+check box
+radio button
+radio group
+spinner
+scroll view
+notification
+text-to-speech
+shutdown
+synchronize
+speech-to-text
+gesture listener
+standard services
+intent services
+service lifecycle
+activity lifecycle
+helper class
+MapFragment
+action bar
+handle events
+activity state
+initialize resources
+resume animations
+relational database
+SQL Server
+PostgreSQL
+SQLite
+MySQL
+handling rotation
+system engineering
+Waterfall Model
+Iterative Development
+Maintainability
+Dependability
+Efficiency
+Acceptability
+extreme programming
+requirement document
+operator
+reference
+assignment
+MFC (Microsoft Foundation Class)
+API (Application Programming Interface)
+SDK (Software Development Kit)
+NDK (Native Development Kit)
+JDK (Java Development Kit)
+JRE (Java Runtime Environment)
+JNI (Java Native Interface)
+Bing
+bookmarks
+Kindle
+Macintosh
+priority queue
+unordered map
+STL (Standard Template Library)
+NP-Complete
+NP-Hard
+Floyd-Warshall
+Bellman-Ford
+Prim
+Kruskal
+minimum cut
+maximum flow
+minimum spanning tree
+convex hull
+GMM (Gaussian Mixture Model)
+HMM (Hidden Markov Model)
+convolution
+DFT (Discrete Fourier Transform)
+IFT (Inverse Fourier Transform)
+FFT (Fast Fourier Transform)
+filter
+Bitbucket
+version control
+source control
+fork
+commit
+blu-ray
+serialize
+deserialize
+outer join
+isolation level
+web service
+OpenSSL
+SSL (Secure Sockets Layer)
+TLS (Transport Layer Security)
+Hadoop
+cycle deadlock
+XSLT (Extensible Stylesheet Language Transformations)x
+VGA
+Github
+weak entity
+supervised learning
+unsupervised learning
+reinforcement learning
+Perl
+eye tracking
+Heartbleed
+LinQ (Language Integrated Query)x
+user-defined constraint
+cluster index
+web config
+Normalization
+vlookup
+hlookup
+Thunderbolt
+digital video camera
+remote access
+TeamViewer
+cache memory
+data flow diagram
+JavaBeans
+message box
+address bar
+digital signature
+MFCC (Mel-frequency cepstral coefficients)
+Waterfall model
+Spiral model
+Scrum
+Agile
+Login spoofing
+Trap door
+Trojan horses
+Logic bombs
+Buffer overflow
+SAM (Security Account Manager)
+DES (Data Encrytion Standard)
+AES (Advanced Encryption Standard)
+RSA (Rivest-Shamir-Adleman)x
+FCFS (First Come First Served)
+SSTF (Shortest Seek Time First)
+SCAN
+CSCAN
+LOOK
+CLOOK
+Caching
+Spooling
+Fragmentation
+FIFO (First In First Out)
+LRU (Least Recently Used)x
+Race Condition
+context switch
+Interrupt
+critical section
+Busy Waiting
+Peterson
+Sleep and Wake up
+thread
+process
+orphan process
+zombie process
+daemon process
+multi-threading
+exec
+exit
+kill
+mkdir
+CreateProcess
+ExitProcess
+TerminateProcess
+PCB (Process Control Block)
+Round Robin
+Priority
+SJF (Shortest Job First)
+Multiple Queue
+Guaranteed Scheduling
+Lottery Scheduling
+Fair-Share Scheduling
+Sqlite
+AR (Augmented reality)
+VR (Virtual reality)
+Hoverboard
+Satya Nadella (CEO Microsoft)
+Tim Cook (CEO Apple)
+Sundar Pichai (CEO Google)
+Segmentation
+Bioinformatics
+Local binary patterns
+Homography
+XAML (Extensible Application Markup Language)
+SIFT (Scale-invariant feature transform)
+Laplacian of Gaussian
+HOG (Histogram of oriented gradients)
+Determinant of Hessian
+SURF (Speeded Up Robust Features)x
+ORB (Oriented FAST and Rotated BRIEF)x
+BRISK (Binary Robust Invariant Scalable Keypoints)x
+FREAK (Fast Retina Keypoint)x
+RANSAC (Random sample consensus)x
+routing table
+collision domain
+packets
+Internet domain space
+OSI Model (Open Systems Interconnection)
+router
+motherboard
+mainboard
+Transport Layer
+port
+TCP service
+Bits
+shell
+Recusive query
+Default gateway
+Bidirectional
+Application Layer
+Ethernet
+Serial port
+Presentation Layer
+Session Layer
+Counter
+UDP service
+ipconfig
+DNS (Domain Name System)
+switch
+merge
+WAN (Wide Area Network)
+MAN (Metropolitan Area Network)
+radix sort
+Segments
+protocol
+Ad-hoc
+3D printer
+Cluster
+Datalink Layer
+Network Layer
+Frames
+repeater
+DHCP (Dynamic host configuration protocol)x
+BOOTP
+Subnet mask
+Broadcast
+Shaker sort
+keyboard
+Physical Layer
+Sliding window
+WWW (World Wide Web)
+quick sort
+complexity
+pointer variable
+media
+extraction operator
+blank
+multitasking
+Google Hummingbird
+Mathematica
+Microsoft Silverlight
+pixel
+Google Pixel
+Yahoo
+Terminate
+Intelligent Personal Assistant
+Extract
+Function Library
+insertion operator
+Viber
+Biometrics
+IPv4
+Silicon Valley
+Fsoft
+Pseudocode
+PDF (Portable Document Format)
+XML (Extensible Markup Language)
+HTML (Hypertext Markup Language)
+null
+radio button
+ICPC (International Collegiate Programming Contest)x
+ACM (Association for Computing Machinery)x
+UML (Unified Modeling Language)
+WAMP
+WampServer
+XAMPP
+Apache
+phpMyAdmin
+nginx (engine x)
+CentOS
+WhatsApp
+Facetime
+Twitter
+Flickr
+VPS (Virtual Private Server)
+VPN (Virtual Private Network)
+SNMP (Simple Network Management Protocol)x
+IMAP (Internet Message Access Protocol)x
+PHP (Hypertext Preprocessor)
+JSP (JavaServer Pages)
+JSON (JavaScript Object Notation)
+multi-platform
+Caudium
+HP-UX
+OpenBSD
+Linux
+Solaris
+Ubuntu
+HP (Hewlett-Packard)
+IBM DB2
+ODBC (Microsoft Open Database Connectivity)
+PostgreSQL
+Informix (IBM)
+Ingres
+InterBase
+Hyperwave
+FrontBase
+Empress
+Adabas D
+LAMP
+Joomla
+MediaWiki
+Mercury Mail Server
+FileZilla (FTP)
+Tomcat (Apache)
+J2EE (Java 2 Platform, Enterprise Edition)x
+J2SE (Java 2 Platform, Standard Edition)x
+NetBeans
+Eclipse
+Bundle
+Intranet
+Torch
+Maxthon
+SeaMonkey
+Avant
+Chromium
+Adobe Flash Player
+Adobe Acrobat Reader
+Foxit Reader
+Corel Draw
+Inkscape
+SVG (Scalable Vector Graphics)
+UC Browser
+alias
+bias
+aggregator
+RSS
+KMP (Knuth-Morris-Pratt)
+Z function
+hash table
+hash map
+JQuery
+XMLDS
+jsdom (Javascript Document Object Model)
+ANN (Artificial Neural Network)
+DNN (Deep Neural Network)
+CNN (Convolutional Neural Network)
+RNN (Recurrent Neural Network)
+Decision Tree
+Opera
+Vivaldi
+Google Play
+AppStore
+Windows Store
+layout
+button
+onClickListener
+timer
+widget
+APK (Android Application Package)
+Unity
+NVIDIA
+manifest
+SMS (Short Message Service)
+intent
+accelerometer sensor
+compass sensor
+bluetooth
+DropBox
+Mediafire
+Torrent
+Netflix
+Bullets and Numbering
+Conditional Formatting
+Xamarin
+HTML Agility Pack
+ASP.NET
+MVC (Model-View-Controller)
+Cocos3D
+Sprite
+LinearLayout
+RelativeLayout
+GridLayout
+TextView
+EditText
+numpy
+Playstation
+AKS (Agrawal-Kayal-Saxena)x
+Miller-Rabin
+heap
+design patterns
+UNIX
+OpenJDK
+Snapdragon
+Google Ads
+Alphabet
+Fiber
+Loon
+Gear VR
+Oculus Rift
+Camera 360
+Xbox One
+Xbox 360
+Account Kit
+E-commerce
+Facebook Messenger
+internal storage
+OneDrive
+Google Drive
+Open Office
+ASR (Automatic Speech Recognition)
+HTK (HMM Toolkit)
+Kaldi
+customize
+optimize
+Firewall
+URL (Uniform Resource Locator)
+RIP (Routing Information Protocol)
+annotation
+boolean
+backup
+built-in
+classifier
+comment
+concept
+deadlock
+DLL (Dynamic Link Library)
+domain
+element
+homepage
+machine language
+GPS (Global Positioning System)
+Amazon
+AlphaGo
+IMEI (International Mobile Station Equipment Identity)x
+Tor
+Android
+iOS
+Xcode
+Android Studio
+Safe mode
+SMTP
+Macbook Air
+flycam
+protocol
+pseudocode
+neural network
+machine learning
+memory allocation
+intelligent agent
+soft computing
+speech recognition
+stream
+recursion
+render
+reverse engineering
+pattern recognition
+polymorphism
+track
+Big data
+IoT (Internet of Things)
+DML (Data maniputation language)
+LCD (Liquid crystal display)
+Delphi
+back-end
+coding style
+extensions
+wchar
+DCL (Data control language)
+Swift
+HTTPS
+mutex
+semaphore
+synchronize
+parallel programming
+NoSQL
+CSS3
+Macbook Retina
+Panorama
+Universal Serial Bus (USB)
+Personal digital assistant (PDA)
+Palm OS
+ROM (Read Only Memory)
+SDRAM
+DDR SDRAM (Double data rate)
+HDD (Hard Disk Drive)
+SSD (Solid-state drive)
+mainframe
+smart card
+error detection
+Mac OS X
+dataset
+add-ons
+ANSI
+ISO
+command
+back-tracking
+assembly language
+MIPS
+autonomous system
+constructor
+destructor
+encapsulation
+face recognition
+inheritance
+MAC Address (Media Access Control)
+DoS (Denial-of-service attack)
+DDoS (Distributed denial-of-service attack)x
+trojan
+spyware
+adware
+abstract
+interface
+interpreter
+maintenance
+parameter
+command line argument
+pipeline programming
+primary key
+meta-polymorphism
+robotics
+scheduling
+structural programming
+database management system
+Edge
+directed acyclic graph
+knowledge base
+linear function
+logic programming
+Prolog
+script
+console
+smartphone
+screensaver
+whitelist
+WLAN
+Win32 API
+Turing machine
+distributed computing
+data low
+cross-platform
+fuzzy system
+CRT (Cathod ray tube)
+Heuristic
+index
+iterator
+Anonymous
+buffer
+overflow
+stackoverflow
+Kitkat
+Marshmallow
+HTML5
+flow chart diagram
+Unit test
+Java
+JavaScript
+NodeJS
+AngularJS
+wireframe
+Cuda
+Micro-computer
+Vlog
+Cryptography
+cursor
+TensorFlow
+XHTML
+registry
+Terabyte
+Unicode
+MD5
+NFC (Near-field Communications)
+IDE (Integrated Development Environment)
+Telnet (TErminaL NETwork)
+Terminal
+IIS (Internet Information Services)
+UDP (User Diagram Protocol)
+TCP (Transmission Control Protocol)
+Structured Query Language
+tablets
+AVL Tree
+projector
+MarketPlace
+trigger
+procedure
+python
+Google Photo
+MongoDB
+URI (Uniform Resource Identifier)
+MicroSD
+webcam
+driver
+kernel
+multi-processing
+ultimate
+black-hat
+cracker
+hacker
+Hololens
+Cloud computing
+SmartTV
+Face detection
+genetic algorithm
+artificial intelligence
+Google Now
+QWERTY
+UCS (Uniform-cost search)
+segmentation faults
+Deep Learning
+Markov decision process
+Monte Carlo tree search
+SARSA (State-Action-Reward-State-Action)x
+Q-learning
+Data exploration
+Data exploitation
+HDFS (Hadoop Distributed File System)
+JobTracker
+TaskTracker
+YARN
+Apache Pig
+Apache Hive
+Apache Mahout
+Apache HBase
+Scalability
+Data Mining
+gradient descent
+linear regression
+k-means clustering
+maximum likelihood
+MLE (Maximum likelihood estimation)
+learning rate
+overfitting
+training set
+validation set
+validation
+verification
+Hamiltonian path
+Eulerian path
+System test
+Acceptance test
+software architecture
+use-case diagram
+activity diagram
+sequence diagram
+packet filter
+RLE (Run-length encoding)
+Huffman tree
+Principal component analysis
+morphological operators
+NLP (natural language processing)
+feature extraction
+VGA (Video Graphics Adapter)
+OCR (Optical Character Recognition)
+Activation Record
+call stack
+uniprogramming
+program counter
+stack pointer
+extended base pointer
+preemptive scheduling
+non-preemptive scheduling
+system calls
+memory management unit
+page fault
+Symbian
+MNIST
+Team Foundation
+Snapchat
+Facetime
+Deep Blue
+Holoportation
+OnHub
+Caffe
+LLVM
+toolbar
+taskbar
+task manager
+UHD
+source code
+open source
+Slack
+Instagram
+Pinterest
+Hangout
+BSOD
+Gboard
+email
+Cardboard
+Tilt Brush
+Google Flights
+drone
+data structure
+OpenAI
+ArrayList
+BigInteger
+Siri
+Cortana
+Surface
+Google Assistant
+Google Home
+Allo
+Duo
+Instant App
+Text-to-Speech
+Speech-to-Text
+Azure
+Oracle
+MySQL
+Mozilla Firefox
+Google Chrome
+xOS
+Echo
+macro
+preprocessor
+inline function
+compiler
+assembler
+linker
+Deepmind
+Sierra
+Google Assistant
+Oculus
+Oculus Touch
+Uber
+shorcut
+iDevice
+Outlook
+Nexus
+adapter
+Daydream View VR
+Alexa
+Laravel
+Scala
+red black tree
+B-tree
+React Native
+Ajax
+REST (Representational State Transfer)
+RESTful
+CRUD
+Ruby
+Ruby on Rails
+Objective-C
+functional programming
+regular expression
+regex
+Amazon Web Service (AWS)
+SoC (System on a Chip)
+websocket
+socket
+HTTP (Hypertext Transfer Protocol)
+transaction
+RDBMS (Relational Database Management System)
+CMS (Content Management System)
+Bootstrap
+MEAN Stack
+AutoLayout
+Express.js
+DevOps
+Nougat
+Go
+Golang
+SHA-1
+SHA-256
+token
+Google Firebase
+git
+Support Vector Machines (SVM)
+perceptron
+object-oriented programming
+Big endian
+Little endian
+command-line interface (CLI)
+TypeScript
+BlackBerry
+Raspberry Pi
+UX (User experience)
+chatbot
+graphic user interface (GUI)
+lambda
+Anonymous funtion
+Django
+OAuth
+bytecode
+middleware
+Nokia 6
+Samsung Galaxy
+ping
+framework
+.NET framework
+Wordpress
+Amazon S3 (Simple Storage Service)
